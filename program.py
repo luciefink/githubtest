@@ -29,6 +29,7 @@
 
 hodnoceni = [7, 9, 6, 7, 9, 8] 
 
+
 # Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
 # for h in hodnoceni:
 #     print(h)
