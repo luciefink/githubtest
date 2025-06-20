@@ -27,7 +27,8 @@
     # 1 Seznam hodnocení
 # Mějme seznam hodnocení divadelní hry Plyšáci na útěku, který vypadá takto:
 
-hodnoceni = [7, 9, 6, 7, 9, 8]
+hodnoceni = [7, 9, 6, 7, 9, 8] 
+
 # Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
 # for h in hodnoceni:
 #     print(h)
